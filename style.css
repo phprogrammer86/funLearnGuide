@@ -10,6 +10,10 @@ body {
     font-family: "sono", sans-serif;
 }
 
+.header {
+    margin: 40px;
+}
+
 .fact-form {
     background-color: #44403c;
 }
